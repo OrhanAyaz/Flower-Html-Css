@@ -1,6 +1,6 @@
 # Flower html css projesi
 
-## Display:felex yapısı öğrenildi
+## Display:flex yapısı öğrenildi
 
-###Screen
+### Screen
 ![](screen.mp4)
